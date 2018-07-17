@@ -1,0 +1,16 @@
+.user_name{
+    font-size:14px;
+    font-weight: bold;
+}
+.comments-list .media{
+    border-bottom: 1px dotted #ccc;
+}
+.article
+{
+    background-color: #d4edda!important;
+}
+strong
+{
+    color: #0000F0;
+
+}
